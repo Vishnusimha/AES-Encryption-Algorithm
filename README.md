@@ -1,4 +1,4 @@
-Watch Present-80 algorithm here ----> [Present80-Encryption-Algorithm](https://github.com/Vishnusimha/Present80-Encryption-Algorithm)
+Present-80 algorithm here ----> [Present80-Encryption-Algorithm](https://github.com/Vishnusimha/Present80-Encryption-Algorithm)
 
 
 # AES-Encryption-Algorithm
